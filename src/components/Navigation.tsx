@@ -15,9 +15,9 @@ const navItems = [
 
 
 const socialLinks = [
-  { label: 'Mail', href: 'mailto:gayathri.parepalli@gmail.com' },
-  { label: 'LinkedIn', href: 'https://www.linkedin.com/in/gayathri-parepalli' },
-  { label: 'GitHub', href: 'https://github.com/' },
+  { label: 'Mail', href: 'mailto:p.gayathri.ch@gmail.com' },
+  { label: 'LinkedIn', href: 'https://www.linkedin.com/in/gayathri-pch' },
+  { label: 'GitHub', href: 'https://github.com/GayathriPCh' },
 ]
 
 export function Navigation() {
