@@ -34,7 +34,7 @@ export function About() {
               I'm driven by the idea that technology can create meaningful impact at scale — and that the
               best work happens when we're part of teams pushing toward something bigger. I've been
               learning what it takes to build and maintain large, long-lived software: understanding
-              tricky bugs, improving reliability, and helping keep complex systems stable as they evolve. 🌱
+              tricky bugs, improving reliability, and helping keep complex systems stable as they evolve.
             </p>
           </motion.div>
         </div>
