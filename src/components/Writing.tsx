@@ -1,6 +1,6 @@
 import { motion } from 'framer-motion'
-import servicenowLogo from '@/assets/servicenow.png.asset.json'
-import awsLogo from '@/assets/aws.png.asset.json'
+import servicenowLogo from '@/assets/servicenow.png'
+import awsLogo from '@/assets/aws.png'
 
 
 const certifications = [
@@ -9,7 +9,7 @@ const certifications = [
     issuer: 'ServiceNow',
     year: 'Aug 2025',
     link: 'https://www.credly.com/badges/e4a4680e-89d9-4c87-bf78-af241101a6cd/linked_in_profile',
-    logo: servicenowLogo.url,
+    logo: servicenowLogo,
   },
   {
     title: 'Expedite — Skills for Industry: Industry Foundations',
@@ -44,7 +44,7 @@ const certifications = [
     issuer: 'Amazon Web Services (AWS)',
     year: 'May 2024',
     link: 'https://www.credly.com/badges/3a459073-7ba8-4ede-96a8-677cabe713fa/public_url',
-    logo: awsLogo.url,
+    logo: awsLogo,
   },
 ]
 
