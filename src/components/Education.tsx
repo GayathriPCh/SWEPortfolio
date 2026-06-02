@@ -36,10 +36,10 @@ export function Education() {
               KL University
             </h3>
             <p className="text-base lg:text-lg text-gray-400">
-              Bachelor of Technology (BTech), Computer Science and Engineering
+              Bachelor of Technology (BTech), Computer Science and Engineering(Honors)
             </p>
             <p className="text-sm text-gray-600 mt-2">Jul 2022 — Jun 2026</p>
-            <p className="text-sm text-gray-500 mt-4">Grade: 9.54 / 10</p>
+            <p className="text-sm text-gray-500 mt-4">Grade: 9.56 / 10</p>
           </motion.div>
 
           <motion.div

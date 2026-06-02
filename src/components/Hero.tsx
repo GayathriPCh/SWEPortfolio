@@ -35,7 +35,7 @@ export function Hero() {
               transition={{ delay: 0.5, duration: 0.8 }}
               className="mt-6 md:mt-8 text-base sm:text-lg md:text-xl text-white/80 max-w-xl leading-relaxed"
             >
-              I write maintainable code. Software Engineer at Siemens DISW, building tools for the automotive E/E systems domain.
+              I write maintainable code. Software Engineering Intern at Siemens DISW, building tools for the automotive E/E systems domain.
             </motion.p>
           </motion.div>
         </div>

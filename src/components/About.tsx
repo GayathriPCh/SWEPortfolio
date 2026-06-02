@@ -49,7 +49,7 @@ export function About() {
               LIVES FOR YEARS."
             </h2>
             <p className="mt-6 text-sm text-gray-500 tracking-widest uppercase">
-              SOFTWARE ENGINEER<br />
+              SOFTWARE ENGINEERING INTERN<br />
               INDIA BASED
             </p>
           </div>
